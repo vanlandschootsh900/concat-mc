@@ -22,6 +22,7 @@ print("what i have learn about concatrnation is that " + one + two + 'and ' + th
  
 
  #task 3
-whopper = float(15.49)
+bkw = '15.49'
+whopper = 'whopper'
 
-print('at burger king the cost of a whopper is ' + '$' + whopper + '.')
+print('at burger king the cost of a ' + whopper + ' is $' + str(bkw) + '.')
